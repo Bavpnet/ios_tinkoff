@@ -1,1 +1,3 @@
-# ios_tinkoff
+# Course about iOS development by Tinkoff
+
+Here will be course homeworks
